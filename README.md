@@ -25,5 +25,6 @@ And following to application.css:
 /*
  *= require jquery.tagedit
 */
+```
 
 And you're good to go!
